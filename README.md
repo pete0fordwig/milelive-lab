@@ -1,2 +1,14 @@
 # milelive-lab
-HTML page archive and documentation
+
+静态内容发布记录
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
